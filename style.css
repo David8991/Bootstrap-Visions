@@ -1,0 +1,64 @@
+body {
+    padding-bottom: 50px;
+  }
+  
+  .navbar-nav, .col-lg-4 {
+    gap: 20px;
+  }
+  
+  main {
+    max-width: 1600px;
+    margin: 0 auto;
+  }
+  
+  .carousel {
+    margin-top: 56px;
+  }
+  
+  .carousel .carousel-indicators button {
+    width: 15px;
+    height: 15px;
+  }
+  
+  .marketing {
+    gap: 40px;
+  }
+  
+  .first {
+    background: no-repeat center/100% url(images/bg-1.png) black;
+  }
+  
+  .middle {
+    background: no-repeat center/100% url(images/bg-2.jpg) black;
+  }
+  
+  .last {
+    background: no-repeat center/100% url(images/bg-3.jpg) black;
+  }
+  
+  .video {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .nav-link:hover {
+    border-bottom: 1px solid #c223a7;
+    transition: .5s;
+  }
+  
+  .img-container {
+    width: 180px;
+    height: 180px;
+  }
+  
+  .carousel {
+    margin-bottom: 50px;
+  }
+  
+  .carousel-item {
+    height: 500px;
+  }
+  
+  .featurette-divider {
+    margin: 50px 0;
+  }
